@@ -15,7 +15,7 @@ import Search from "./Components/Search";
 export default function App() {
   return (
     <div className="App">
-      <h1>helloo</h1>
+      <h1>GITHUB SEARCH</h1>
       {/* <Login /> */}
       <Home />
 
